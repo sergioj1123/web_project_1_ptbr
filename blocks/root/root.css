@@ -36,19 +36,3 @@
 .section-subtitle_theme_dark {
   color: white;
 }
-
-/* Tentei adicionar ambos tanto no header dentro das pastas header/__logo/_placeheader/logo_place_header.css, mas não consigo enviar para a plataforma, porque não passa no validador, falando que não seria uma estrutura BEM */
-
-.logo_place_header {
-  position: absolute;
-  top: 30px;
-  left: 64px;
-  z-index: 1;
-  width: 154px;
-  height: 31px;
-}
-
-.logo__place_footer {
-  width: 183px;
-  height: 35px;
-}
