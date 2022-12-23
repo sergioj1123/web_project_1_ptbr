@@ -1,0 +1,7 @@
+.cards__item {
+  align-items: center;
+  list-style: none;
+  text-align: center;
+  margin-top: 60px;
+  width: 240px;
+}
