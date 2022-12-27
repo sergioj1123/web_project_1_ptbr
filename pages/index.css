@@ -23,10 +23,10 @@
 
 /* Importando techniques */
 @import url(../blocks/techniques/techniques.css);
-@import url(../blocks/techniques/__description/cards__description.css);
-@import url(../blocks/techniques/__image/cards__image.css);
-@import url(../blocks/techniques/__item/cards__item.css);
-@import url(../blocks/techniques/__title/cards__title.css);
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/cards/__image/cards__image.css);
+@import url(../blocks/cards/__item/cards__item.css);
+@import url(../blocks/cards/__title/cards__title.css);
 
 /* Importando video */
 @import url(../blocks/video/video.css);
