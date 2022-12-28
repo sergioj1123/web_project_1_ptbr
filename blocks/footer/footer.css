@@ -5,5 +5,5 @@
   min-height: 350px;
   display: flex;
   justify-content: center;
-  box-sizing: content-box;
+  box-sizing: border-box;
 }
